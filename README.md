@@ -1,2 +1,2 @@
 # Machine_Learning
-Machine_learning by Andrew Ng
+  Machine learning algorithms implemention and experiementation 
